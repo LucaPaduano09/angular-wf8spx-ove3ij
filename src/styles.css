@@ -89,7 +89,7 @@ button {
 .button:hover,
 button:hover {
   opacity: 0.8;
-  font-weight: normal;
+  font-weight: 900;
 }
 
 .button:disabled,
