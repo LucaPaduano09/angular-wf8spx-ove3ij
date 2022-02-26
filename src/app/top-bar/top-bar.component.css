@@ -1,4 +1,10 @@
-
+.nav-bar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
